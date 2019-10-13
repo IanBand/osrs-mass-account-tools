@@ -32,7 +32,17 @@
 ## rs-sign-in.ahk supplementary files
 
 > user.txt
+
 contains the Gmail username
 
 > password.txt
+
 contains the password for all accounts (assumes the password is the same for all accounts)
+
+
+## account-gen.py
+
+creates any number of accounts based off of one Gmail account using the "+ annotations" feature
+
+https://techverse.net/create-multiple-custom-email-address-one-gmail-account/
+

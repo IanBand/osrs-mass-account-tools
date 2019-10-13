@@ -1,0 +1,9 @@
+{
+    "driver-path": "chromedriver.exe",
+    "accounts": [],
+    "base-google-account": "goatlink",
+    "start-name-index": 23,
+    "number-accounts": 1,
+    "password": "uIYmdgnF0ySZcjrAsuzP"
+
+}
